@@ -1,0 +1,2457 @@
+{
+  "fetchedAt": "2026-11-10T06:37:18.511Z",
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL 1.0",
+  "licenseUrl": "https://www.openstreetmap.org/copyright",
+  "source": "OpenStreetMap",
+  "cities": {
+    "Kochi": {
+      "bbox": [
+        9.85,
+        76.15,
+        10.12,
+        76.45
+      ],
+      "osmBaseTimestamp": "2026-11-10T06:35:51Z",
+      "elements": [
+        {
+          "type": "node",
+          "id": 4715438437,
+          "lat": 10.0862087,
+          "lon": 76.2681077,
+          "timestamp": "2017-03-03T17:40:12Z",
+          "version": 1,
+          "changeset": 46554133,
+          "user": "muzirian",
+          "uid": 2024553,
+          "tags": {
+            "amenity": "veterinary",
+            "fixme": "position"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7319287230,
+          "lat": 9.9005894,
+          "lon": 76.3893982,
+          "timestamp": "2020-03-22T13:13:57Z",
+          "version": 1,
+          "changeset": 82482875,
+          "user": "Amitha k Biju",
+          "uid": 10388660,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Mulanthuruthy Block Panchayth Veterinary Clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7466769203,
+          "lat": 9.9420755,
+          "lon": 76.3499775,
+          "timestamp": "2021-01-14T18:36:28Z",
+          "version": 3,
+          "changeset": 97511401,
+          "user": "Shoaib Rahman",
+          "uid": 10924349,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Goverment Vetinary Hospital",
+            "operator": "Government"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7480636720,
+          "lat": 9.8623136,
+          "lon": 76.3261029,
+          "timestamp": "2020-05-04T15:04:17Z",
+          "version": 1,
+          "changeset": 84631588,
+          "user": "DILSHADHUSSAIN",
+          "uid": 11100533,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Dispensary Vaduthala"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7913257361,
+          "lat": 9.8663289,
+          "lon": 76.3048509,
+          "timestamp": "2020-09-17T10:05:22Z",
+          "version": 3,
+          "changeset": 91038477,
+          "user": "Abhiramipb",
+          "uid": 11125170,
+          "tags": {
+            "addr:city": "Aroor",
+            "addr:postcode": "688534",
+            "amenity": "veterinary",
+            "government": "veterinary",
+            "name": "Veterinary Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7915594142,
+          "lat": 9.9170833,
+          "lon": 76.3147803,
+          "timestamp": "2022-06-16T08:23:42Z",
+          "version": 3,
+          "changeset": 122451023,
+          "user": "SREEPRIYA SIVANANDAN",
+          "uid": 12002760,
+          "tags": {
+            "addr:city": "Maradu, Trippunithura, Ernakulam",
+            "addr:housenumber": "GOVT Vaterinary ,Nettoor",
+            "addr:postcode": "682040",
+            "addr:street": "Vaikom Muhammed Basheer Raod, Nettoor",
+            "amenity": "veterinary",
+            "name": "GOVT Veterinary Hospital ,Nettoor"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8084286408,
+          "lat": 9.9688929,
+          "lon": 76.2849745,
+          "timestamp": "2023-08-20T19:06:27Z",
+          "version": 2,
+          "changeset": 140147925,
+          "user": "54-46",
+          "uid": 20004482,
+          "tags": {
+            "amenity": "veterinary",
+            "government": "Hospital",
+            "name": "District Veterinary Centre",
+            "office": "government"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8321944715,
+          "lat": 9.9463167,
+          "lon": 76.3682741,
+          "timestamp": "2021-01-14T18:08:21Z",
+          "version": 1,
+          "changeset": 97510330,
+          "user": "Shoaib Rahman",
+          "uid": 10924349,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Goverment Veterinary Dispensary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8401965517,
+          "lat": 9.9463122,
+          "lon": 76.3682515,
+          "timestamp": "2021-02-07T13:11:28Z",
+          "version": 1,
+          "changeset": 98849298,
+          "user": "Shoaib Rahman",
+          "uid": 10924349,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Government Veterinary Dispensary",
+            "survey:date": "2021-02-07"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8721475828,
+          "lat": 10.0027845,
+          "lon": 76.2341941,
+          "timestamp": "2021-05-14T10:08:51Z",
+          "version": 2,
+          "changeset": 104678371,
+          "user": "Vinesh kumar",
+          "uid": 13206313,
+          "tags": {
+            "addr:city": "Ernakulam",
+            "addr:place": "Puthuvype",
+            "addr:postcode": "682508",
+            "amenity": "veterinary",
+            "name": "Government Vetenary Dispensary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8879151117,
+          "lat": 10.0854113,
+          "lon": 76.2663481,
+          "timestamp": "2021-06-30T06:16:05Z",
+          "version": 1,
+          "changeset": 107184547,
+          "user": "Sruthy Francis",
+          "uid": 12470298,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Varapuzha Grampanchayat vertenery hospital",
+            "survey:date": "2021-06-30"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8949310604,
+          "lat": 10.09473,
+          "lon": 76.2071929,
+          "timestamp": "2021-07-25T18:06:45Z",
+          "version": 1,
+          "changeset": 108575844,
+          "user": "VishnuSudheesh",
+          "uid": 13666681,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Edavanakkad Vetinery Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9062065558,
+          "lat": 9.9705128,
+          "lon": 76.4212871,
+          "timestamp": "2021-09-04T10:51:34Z",
+          "version": 1,
+          "changeset": 110711185,
+          "user": "Sriram Susheer",
+          "uid": 13788734,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Government Veterinary Hospital",
+            "name:ml": "സർക്കാർ വെറ്ററിനറി ആശുപത്രി"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9081405082,
+          "lat": 9.9587938,
+          "lon": 76.258211,
+          "timestamp": "2021-09-11T05:32:48Z",
+          "version": 1,
+          "changeset": 111048963,
+          "user": "Sriram Susheer",
+          "uid": 13788734,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Clinic Mattancherry",
+            "name:ml": "വെറ്ററിനറി ക്ലിനിക് മട്ടാഞ്ചേരി"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9081405083,
+          "lat": 9.9590009,
+          "lon": 76.2581419,
+          "timestamp": "2021-09-11T05:34:34Z",
+          "version": 1,
+          "changeset": 111048987,
+          "user": "Sriram Susheer",
+          "uid": 13788734,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Govt. Veterinary Hospital",
+            "name:ml": "സർക്കാർ മൃഗാശുപത്രി",
+            "opening_hours": "Mo-Su 09:00-15:00"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9096713132,
+          "lat": 10.0528042,
+          "lon": 76.2610557,
+          "timestamp": "2021-09-16T05:30:49Z",
+          "version": 1,
+          "changeset": 111271271,
+          "user": "Antony K Shaji",
+          "uid": 13563585,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Hospital Kadamakkudy"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9476169423,
+          "lat": 9.8623895,
+          "lon": 76.3259575,
+          "timestamp": "2022-02-04T14:41:42Z",
+          "version": 1,
+          "changeset": 117009536,
+          "user": "Jubair cj",
+          "uid": 13283431,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Arookutty Vetinary Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9990228537,
+          "lat": 10.0156107,
+          "lon": 76.2597798,
+          "timestamp": "2022-08-31T09:51:22Z",
+          "version": 1,
+          "changeset": 125603821,
+          "user": "Diya Jose",
+          "uid": 16317797,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Govt.Veterinary Hospital",
+            "panchayath": "Mulavukad",
+            "ward": "6"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10030964923,
+          "lat": 9.9706775,
+          "lon": 76.4215166,
+          "timestamp": "2022-09-17T07:02:35Z",
+          "version": 1,
+          "changeset": 126286703,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Puthancruz",
+            "survey:date": "2022-09-16"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10732693226,
+          "lat": 9.9496371,
+          "lon": 76.2548292,
+          "timestamp": "2023-03-13T12:48:58Z",
+          "version": 1,
+          "changeset": 133623997,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "PHM Veterinary Clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10759175435,
+          "lat": 10.019927,
+          "lon": 76.3010886,
+          "timestamp": "2023-03-24T13:56:11Z",
+          "version": 1,
+          "changeset": 134069412,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Government Veterinary Hospital Edappally"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10970143209,
+          "lat": 10.0404318,
+          "lon": 76.2793202,
+          "timestamp": "2023-06-12T04:12:03Z",
+          "version": 1,
+          "changeset": 137226009,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Govt. VETERINARY DISPENSARY"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10970406416,
+          "lat": 10.1032321,
+          "lon": 76.390298,
+          "timestamp": "2023-06-12T08:14:57Z",
+          "version": 1,
+          "changeset": 137233049,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Keezhmad Veterinary Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 11126381951,
+          "lat": 9.9549118,
+          "lon": 76.2995601,
+          "timestamp": "2026-10-29T14:21:18Z",
+          "version": 5,
+          "changeset": 191196425,
+          "user": "54-46",
+          "uid": 20004482,
+          "tags": {
+            "amenity": "veterinary",
+            "level": "0",
+            "name": "The Cochin Pet Hospital"
+          }
+        },
+        {
+          "type": "way",
+          "id": 409712344,
+          "timestamp": "2021-08-04T17:13:42Z",
+          "version": 2,
+          "changeset": 109157685,
+          "user": "VishnuSudheesh",
+          "uid": 13666681,
+          "center": {
+            "lat": 10.0650649,
+            "lon": 76.2125544
+          },
+          "nodes": [
+            4115850345,
+            4115850337,
+            4115850335,
+            4115850343,
+            4115850345
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Nayarambalam Vetinery Hospital"
+          }
+        },
+        {
+          "type": "way",
+          "id": 619341207,
+          "timestamp": "2023-06-13T11:17:13Z",
+          "version": 2,
+          "changeset": 137281598,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "center": {
+            "lat": 10.114212,
+            "lon": 76.4412894
+          },
+          "nodes": [
+            5852842893,
+            5852842894,
+            5852842895,
+            5852842896,
+            5852842893
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Govt. Veterinary Dispensary Manjapetty"
+          }
+        },
+        {
+          "type": "way",
+          "id": 620227310,
+          "timestamp": "2021-09-14T07:22:12Z",
+          "version": 2,
+          "changeset": 111178063,
+          "user": "Ebin Babu Palamattam",
+          "uid": 13697694,
+          "center": {
+            "lat": 9.8724343,
+            "lon": 76.2843934
+          },
+          "nodes": [
+            5860143792,
+            5860143791,
+            5860143790,
+            5860143789,
+            5860143792
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Kumbalangi Grama Panchayat Veterinary Dispensary"
+          }
+        },
+        {
+          "type": "way",
+          "id": 620249137,
+          "timestamp": "2022-09-26T18:19:14Z",
+          "version": 2,
+          "changeset": 126667281,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.8833273,
+            "lon": 76.3748694
+          },
+          "nodes": [
+            5860298942,
+            5860298941,
+            5860298940,
+            5860298939,
+            5860298942
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Subcenter, Kochupally"
+          }
+        },
+        {
+          "type": "way",
+          "id": 620589950,
+          "timestamp": "2026-05-29T03:05:59Z",
+          "version": 5,
+          "changeset": 183331011,
+          "user": "gtxr",
+          "uid": 20515675,
+          "center": {
+            "lat": 9.8568772,
+            "lon": 76.3834746
+          },
+          "nodes": [
+            5863193753,
+            5863193750,
+            5863193751,
+            5863193752,
+            5863193753
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "check_date": "2026-05-29",
+            "name": "Government Vetenary Hospital Poothotta"
+          }
+        },
+        {
+          "type": "way",
+          "id": 633435243,
+          "timestamp": "2021-12-04T11:21:12Z",
+          "version": 2,
+          "changeset": 114551452,
+          "user": "rhishabh",
+          "uid": 14562085,
+          "center": {
+            "lat": 10.073727,
+            "lon": 76.4468509
+          },
+          "nodes": [
+            5979395902,
+            5979395903,
+            5979395904,
+            5979395905,
+            5979395902
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "GOVERNMENT VETERINARY HOSPITAL"
+          }
+        },
+        {
+          "type": "way",
+          "id": 797539372,
+          "timestamp": "2026-09-28T14:15:49Z",
+          "version": 4,
+          "changeset": 189682214,
+          "user": "bh-e",
+          "uid": 17231775,
+          "center": {
+            "lat": 10.0348123,
+            "lon": 76.4080831
+          },
+          "nodes": [
+            7459028463,
+            7459028473,
+            7459028433,
+            7459028434,
+            7459028448,
+            7459028459,
+            7459028463
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "building:colour": "brown",
+            "building:levels": "1",
+            "building:material": "concrete",
+            "building:use": "government",
+            "check_date": "2026-09-28",
+            "height": "3",
+            "name": "Government Veterinary Hospital",
+            "roof:colour": "brown",
+            "roof:levels": "1",
+            "roof:material": "concrete",
+            "roof:orientation": "along",
+            "roof:shape": "flat"
+          }
+        },
+        {
+          "type": "way",
+          "id": 797793143,
+          "timestamp": "2020-04-29T12:49:41Z",
+          "version": 2,
+          "changeset": 84340404,
+          "user": "AdithyaMarayil",
+          "uid": 11061970,
+          "center": {
+            "lat": 9.966874,
+            "lon": 76.3393177
+          },
+          "nodes": [
+            7461704283,
+            7461704284,
+            7461717685,
+            7461717686,
+            7461704283
+          ],
+          "tags": {
+            "addr:city": "Ernakulam",
+            "addr:housenumber": "Felican",
+            "addr:postcode": "682306",
+            "addr:street": "Eroor Road",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Felican"
+          }
+        },
+        {
+          "type": "way",
+          "id": 895462319,
+          "timestamp": "2023-08-20T07:56:54Z",
+          "version": 3,
+          "changeset": 140120744,
+          "user": "Mateusz Konieczny - bot account",
+          "uid": 3199858,
+          "center": {
+            "lat": 9.9889552,
+            "lon": 76.4414114
+          },
+          "nodes": [
+            8323747935,
+            8323747936,
+            8323747937,
+            8323747938,
+            8323747939,
+            8323747940,
+            8323747941,
+            8323747935
+          ],
+          "tags": {
+            "addr:city": "Kolenchery, Eranakulam",
+            "addr:housenumber": "Vetinary Hospital",
+            "addr:postcode": "682310",
+            "addr:street": "Pancode",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Pancode Vetinery Hospital",
+            "opening_hours": "Mo-Fr 09:00-15:00"
+          }
+        },
+        {
+          "type": "way",
+          "id": 922698143,
+          "timestamp": "2021-03-26T18:38:32Z",
+          "version": 1,
+          "changeset": 101811675,
+          "user": "am_ashwin",
+          "uid": 12907302,
+          "center": {
+            "lat": 10.1081825,
+            "lon": 76.2027963
+          },
+          "nodes": [
+            8565513867,
+            8565513370,
+            8565513865,
+            8565513866,
+            8565513867
+          ],
+          "tags": {
+            "addr:postcode": "682501",
+            "addr:street": "Vypin - Pallippuram Road",
+            "amenity": "veterinary",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 959811271,
+          "timestamp": "2021-06-30T16:04:18Z",
+          "version": 1,
+          "changeset": 107217126,
+          "user": "asifkasim223",
+          "uid": 13149341,
+          "center": {
+            "lat": 10.1133585,
+            "lon": 76.2290519
+          },
+          "nodes": [
+            8880492898,
+            8880492899,
+            8880492900,
+            8880492901,
+            8880492902,
+            8880492903,
+            8880492904,
+            8880492905,
+            8880492898
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Veterinary Dispensary",
+            "operator": "Government"
+          }
+        },
+        {
+          "type": "way",
+          "id": 970676965,
+          "timestamp": "2021-08-05T15:19:55Z",
+          "version": 1,
+          "changeset": 109209132,
+          "user": "VishnuSudheesh",
+          "uid": 13666681,
+          "center": {
+            "lat": 10.0439151,
+            "lon": 76.217779
+          },
+          "nodes": [
+            8983656364,
+            8983656365,
+            8983656366,
+            8983656367,
+            8983656364
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital Njarakkal"
+          }
+        },
+        {
+          "type": "way",
+          "id": 975724846,
+          "timestamp": "2021-09-09T05:10:17Z",
+          "version": 4,
+          "changeset": 110948756,
+          "user": "Amitha k Biju",
+          "uid": 10388660,
+          "center": {
+            "lat": 10.1103504,
+            "lon": 76.287119
+          },
+          "nodes": [
+            9029256273,
+            9029256274,
+            9029256275,
+            9029256276,
+            9029256277,
+            9029256278,
+            9029256279,
+            9029256280,
+            9029256281,
+            9029256282,
+            9029256273
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital, Alangad",
+            "operator": "government"
+          }
+        },
+        {
+          "type": "way",
+          "id": 979345496,
+          "timestamp": "2021-09-09T05:10:47Z",
+          "version": 2,
+          "changeset": 110948780,
+          "user": "Amitha k Biju",
+          "uid": 10388660,
+          "center": {
+            "lat": 10.1106551,
+            "lon": 76.2870813
+          },
+          "nodes": [
+            9060453440,
+            9060453441,
+            9060453442,
+            9060453443,
+            9060453440
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital , Koduvazhanga",
+            "operator": "government"
+          }
+        },
+        {
+          "type": "way",
+          "id": 980990869,
+          "timestamp": "2021-09-08T16:40:51Z",
+          "version": 1,
+          "changeset": 110929939,
+          "user": "Ace_ss",
+          "uid": 13539431,
+          "center": {
+            "lat": 10.0159951,
+            "lon": 76.2603638
+          },
+          "nodes": [
+            9074382815,
+            9074382816,
+            9074384417,
+            9074384418,
+            9074382815
+          ],
+          "tags": {
+            "addr:city": "Ernakulam",
+            "addr:postcode": "682504",
+            "amenity": "veterinary",
+            "building": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 983273979,
+          "timestamp": "2021-09-14T16:51:32Z",
+          "version": 1,
+          "changeset": 111205871,
+          "user": "Athul Thomas",
+          "uid": 13545558,
+          "center": {
+            "lat": 10.1185537,
+            "lon": 76.247959
+          },
+          "nodes": [
+            9091676521,
+            9091676522,
+            9091676523,
+            9091676524,
+            9091676525,
+            9091676526,
+            9091676527,
+            9091676521
+          ],
+          "tags": {
+            "addr:city": "Ernakulam",
+            "addr:postcode": "683519",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Poly Clinic"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1015371539,
+          "timestamp": "2023-06-12T05:03:20Z",
+          "version": 2,
+          "changeset": 137227026,
+          "user": "Ashvinraj",
+          "uid": 10380256,
+          "center": {
+            "lat": 10.0999853,
+            "lon": 76.3595892
+          },
+          "nodes": [
+            9366491822,
+            9366491823,
+            9366491824,
+            9366491825,
+            9366491822
+          ],
+          "tags": {
+            "addr:city": "aluva",
+            "addr:postcode": "683101",
+            "addr:street": "Nethaji road",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Aluva Govt. Vetinary Hospital",
+            "opening_hours": "24/7"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1016532744,
+          "timestamp": "2021-12-29T11:03:33Z",
+          "version": 1,
+          "changeset": 115512942,
+          "user": "Eldho George",
+          "uid": 14724876,
+          "center": {
+            "lat": 9.9421409,
+            "lon": 76.3499305
+          },
+          "nodes": [
+            9375944648,
+            9375944649,
+            9375944650,
+            9375944651,
+            9375944648
+          ],
+          "tags": {
+            "addr:city": "Thrippunithura",
+            "addr:housenumber": "Kannankulangara",
+            "addr:postcode": "682301",
+            "addr:street": "Mini Byepass Thripunithara",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Goverment Vetiary Hospital",
+            "opening_hours": "Mo-Fr 09:30-17:00",
+            "operator": "Goverment"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1065806801,
+          "timestamp": "2022-06-24T05:34:24Z",
+          "version": 2,
+          "changeset": 122783947,
+          "user": "SREEPRIYA SIVANANDAN",
+          "uid": 12002760,
+          "center": {
+            "lat": 9.9347175,
+            "lon": 76.3262901
+          },
+          "nodes": [
+            9787605082,
+            9787605083,
+            9787605084,
+            9787605085,
+            9787605086,
+            9787605087,
+            9787605088,
+            9787605082
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital Maradu"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1070134474,
+          "timestamp": "2022-06-16T06:48:33Z",
+          "version": 1,
+          "changeset": 122446521,
+          "user": "SREEPRIYA SIVANANDAN",
+          "uid": 12002760,
+          "center": {
+            "lat": 9.934709,
+            "lon": 76.3269135
+          },
+          "nodes": [
+            9821657934,
+            9821657935,
+            9821657936,
+            9821657937,
+            9821657938,
+            9821657934
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Govt Veterinary Hospital Maradu"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1077636522,
+          "timestamp": "2022-07-11T09:26:51Z",
+          "version": 2,
+          "changeset": 123465100,
+          "user": "SREEPRIYA SIVANANDAN",
+          "uid": 12002760,
+          "center": {
+            "lat": 10.0202732,
+            "lon": 76.3504943
+          },
+          "nodes": [
+            9880606131,
+            9880606132,
+            9880606133,
+            9880606134,
+            9880606131
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Veterinary Dispensary Thrikkakara"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1086591115,
+          "timestamp": "2022-08-16T06:24:55Z",
+          "version": 1,
+          "changeset": 124954910,
+          "user": "aiswaryaabhilash",
+          "uid": 12004905,
+          "center": {
+            "lat": 10.0743303,
+            "lon": 76.2927778
+          },
+          "nodes": [
+            9956234457,
+            9956234458,
+            9956234459,
+            9956234460,
+            9956234461,
+            9956234462,
+            9956234463,
+            9956234464,
+            9956234465,
+            9956234466,
+            9956234457
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1097436437,
+          "timestamp": "2022-09-24T07:05:26Z",
+          "version": 1,
+          "changeset": 126570979,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.9437671,
+            "lon": 76.4023054
+          },
+          "nodes": [
+            10048622572,
+            10048622573,
+            10048622574,
+            10048622575,
+            10048622572
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Veterinary Hospital Vennikulam"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1097453461,
+          "timestamp": "2022-09-24T09:35:46Z",
+          "version": 1,
+          "changeset": 126574817,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.9340431,
+            "lon": 76.4231928
+          },
+          "nodes": [
+            10048763006,
+            10048763007,
+            10048763008,
+            10048763009,
+            10048763006
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Subcenter, Thiruvaniyoor"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1097563041,
+          "timestamp": "2022-09-24T19:44:31Z",
+          "version": 1,
+          "changeset": 126595318,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.9163144,
+            "lon": 76.376152
+          },
+          "nodes": [
+            10049736430,
+            10049736431,
+            10049736432,
+            10049736433,
+            10049736430
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Vetenary Subcenter, Kandanad"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1098159861,
+          "timestamp": "2022-09-27T04:56:20Z",
+          "version": 1,
+          "changeset": 126679222,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.8692417,
+            "lon": 76.4359693
+          },
+          "nodes": [
+            10055167955,
+            10055167956,
+            10055167957,
+            10055167958,
+            10055167955
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Hospital, Edakkattuvayal"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1098159880,
+          "timestamp": "2022-09-27T04:56:20Z",
+          "version": 1,
+          "changeset": 126679222,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.8655876,
+            "lon": 76.4180675
+          },
+          "nodes": [
+            10055171939,
+            10055171940,
+            10055171941,
+            10055171942,
+            10055171939
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Subcenter,Chettikot"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1098319568,
+          "timestamp": "2022-09-27T15:33:20Z",
+          "version": 1,
+          "changeset": 126703474,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.8516807,
+            "lon": 76.4497556
+          },
+          "nodes": [
+            10056525925,
+            10056525926,
+            10056525927,
+            10056525928,
+            10056525925
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Subcenter, Thottoor"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1098610456,
+          "timestamp": "2022-09-28T16:42:57Z",
+          "version": 1,
+          "changeset": 126748422,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.9246706,
+            "lon": 76.3988695
+          },
+          "nodes": [
+            10059098758,
+            10059098759,
+            10059098760,
+            10059098761,
+            10059098758
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Subcenter, Chottanikkara"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1098610461,
+          "timestamp": "2022-09-28T16:42:57Z",
+          "version": 1,
+          "changeset": 126748422,
+          "user": "Abhijithmn",
+          "uid": 13220973,
+          "center": {
+            "lat": 9.9200072,
+            "lon": 76.3923934
+          },
+          "nodes": [
+            10059098781,
+            10059098782,
+            10059098783,
+            10059098784,
+            10059098781
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veternary Dispensary, Eruveli"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1221435828,
+          "timestamp": "2025-12-16T03:22:26Z",
+          "version": 2,
+          "changeset": 175986250,
+          "user": "SelectiveNegative",
+          "uid": 12626407,
+          "center": {
+            "lat": 10.0445165,
+            "lon": 76.3271781
+          },
+          "nodes": [
+            11328401409,
+            11328401410,
+            11328401411,
+            11328401412,
+            11328401409
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "Small Animal Housing Facility"
+          }
+        }
+      ]
+    },
+    "Bengaluru": {
+      "bbox": [
+        12.8,
+        77.4,
+        13.15,
+        77.8
+      ],
+      "osmBaseTimestamp": "2026-11-10T06:35:51Z",
+      "elements": [
+        {
+          "type": "node",
+          "id": 364629579,
+          "lat": 12.9232772,
+          "lon": 77.5819096,
+          "timestamp": "2009-07-30T12:16:49Z",
+          "version": 2,
+          "changeset": 1982204,
+          "user": "xybot",
+          "uid": 70696,
+          "tags": {
+            "amenity": "veterinary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 1469249217,
+          "lat": 12.9917256,
+          "lon": 77.5991714,
+          "timestamp": "2016-08-01T19:08:22Z",
+          "version": 4,
+          "changeset": 41175328,
+          "user": "indigomc",
+          "uid": 136860,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Government Veterinary Hospital",
+            "name:kn": "ಸರ್ಕಾರಿ ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 1683088879,
+          "lat": 12.9556064,
+          "lon": 77.720658,
+          "timestamp": "2022-07-08T14:23:08Z",
+          "version": 4,
+          "changeset": 123367164,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "addr:housenumber": "5",
+            "amenity": "veterinary",
+            "name": "Bangalore Pet Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 2030152914,
+          "lat": 12.8926333,
+          "lon": 77.5812405,
+          "timestamp": "2012-11-24T15:18:12Z",
+          "version": 1,
+          "changeset": 14013962,
+          "user": "BlueTiger",
+          "uid": 823185,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Royal Pet Care"
+          }
+        },
+        {
+          "type": "node",
+          "id": 2767232789,
+          "lat": 12.990035,
+          "lon": 77.5643749,
+          "timestamp": "2017-02-14T19:56:47Z",
+          "version": 4,
+          "changeset": 46088498,
+          "user": "indigomc",
+          "uid": 136860,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "BBMP Veterinary Hospital",
+            "name:kn": "ಬೃ. ಬೆಂ. ಮ. ಪಾ. ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 2952008222,
+          "lat": 12.8260429,
+          "lon": 77.6820929,
+          "timestamp": "2017-01-09T08:43:10Z",
+          "version": 2,
+          "changeset": 45020591,
+          "user": "indigomc",
+          "uid": 136860,
+          "tags": {
+            "addr:place": "Hebbagodi",
+            "amenity": "veterinary",
+            "name": "Goverment Veterinary Clinic",
+            "name:kn": "ಸರ್ಕಾರಿ ಪಶುವೈದ್ಯ ಕೇಂದ್ರ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 3010283557,
+          "lat": 12.9319134,
+          "lon": 77.580412,
+          "timestamp": "2015-03-17T18:12:22Z",
+          "version": 2,
+          "changeset": 29547108,
+          "user": "yogi_ks",
+          "uid": 827808,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Hospital",
+            "name:kn": "ಪಶು ವೈದ್ಯಕೀಯ ಆಸ್ಪತ್ರೆ",
+            "source": "voice, GPS"
+          }
+        },
+        {
+          "type": "node",
+          "id": 3221380824,
+          "lat": 12.9065734,
+          "lon": 77.5823503,
+          "timestamp": "2017-10-06T15:01:59Z",
+          "version": 3,
+          "changeset": 52685826,
+          "user": "yogi_ks",
+          "uid": 827808,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Pampapathi Veterinary Centre",
+            "name:kn": "ಪಂಪಾಪತಿ ಪಶು ಕೇಂದ್ರ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 3401252353,
+          "lat": 12.9614096,
+          "lon": 77.6435604,
+          "timestamp": "2015-03-16T04:22:04Z",
+          "version": 1,
+          "changeset": 29509456,
+          "user": "ruthmaben",
+          "uid": 2554698,
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "The voice of stray dogs"
+          }
+        },
+        {
+          "type": "node",
+          "id": 3401269524,
+          "lat": 12.956519,
+          "lon": 77.6425504,
+          "timestamp": "2015-03-16T04:27:47Z",
+          "version": 1,
+          "changeset": 29509491,
+          "user": "ruthmaben",
+          "uid": 2554698,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Cessna Lifeline Veterinary care clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 3897575411,
+          "lat": 12.9948763,
+          "lon": 77.6282673,
+          "timestamp": "2019-08-23T19:09:29Z",
+          "version": 2,
+          "changeset": 73681020,
+          "user": "indigomc",
+          "uid": 136860,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Bengalore Veterinary Hospital",
+            "name:kn": "ಬೆಂಗಳೂರು ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 4133355897,
+          "lat": 12.9274912,
+          "lon": 77.6373711,
+          "timestamp": "2016-04-19T14:25:03Z",
+          "version": 1,
+          "changeset": 38696319,
+          "user": "Johnny Jacob",
+          "uid": 3565408,
+          "tags": {
+            "amenity": "veterinary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 4133355898,
+          "lat": 12.9274912,
+          "lon": 77.637341,
+          "timestamp": "2016-04-19T14:25:03Z",
+          "version": 1,
+          "changeset": 38696319,
+          "user": "Johnny Jacob",
+          "uid": 3565408,
+          "tags": {
+            "amenity": "veterinary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 4161522490,
+          "lat": 12.8353006,
+          "lon": 77.6846424,
+          "timestamp": "2016-06-03T09:16:02Z",
+          "version": 2,
+          "changeset": 39774269,
+          "user": "ThejeshGN",
+          "uid": 82685,
+          "tags": {
+            "addr:city": "Bangalore",
+            "addr:postcode": "560100",
+            "amenity": "veterinary",
+            "name": "Pet Vet Shop"
+          }
+        },
+        {
+          "type": "node",
+          "id": 4583523289,
+          "lat": 13.0192963,
+          "lon": 77.633699,
+          "timestamp": "2017-01-01T05:56:22Z",
+          "version": 1,
+          "changeset": 44817532,
+          "user": "ThejeshGN",
+          "uid": 82685,
+          "tags": {
+            "addr:housenumber": "3",
+            "addr:postcode": "560084",
+            "addr:street": "2nd A main",
+            "amenity": "veterinary",
+            "name": "Anu Pet Clinic",
+            "name:en": "Anu Pet Clinic",
+            "phone": "+91 98440 04905"
+          }
+        },
+        {
+          "type": "node",
+          "id": 5261480849,
+          "lat": 12.8963067,
+          "lon": 77.7235963,
+          "timestamp": "2017-12-03T06:11:30Z",
+          "version": 1,
+          "changeset": 54289115,
+          "user": "arunisaac",
+          "uid": 1581711,
+          "tags": {
+            "amenity": "animal_shelter",
+            "animal_shelter": "dog",
+            "name": "Maruthy Dog Shelter"
+          }
+        },
+        {
+          "type": "node",
+          "id": 5469008922,
+          "lat": 12.9604789,
+          "lon": 77.6350036,
+          "timestamp": "2024-10-09T18:30:40Z",
+          "version": 2,
+          "changeset": 157684893,
+          "user": "indigomc",
+          "uid": 136860,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Government Veterinary Hospital",
+            "name:kn": "ಸರ್ಕಾರಿ ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "node",
+          "id": 5685671918,
+          "lat": 13.1095538,
+          "lon": 77.6344905,
+          "timestamp": "2018-06-12T17:20:38Z",
+          "version": 1,
+          "changeset": 59784519,
+          "user": "arunisaac",
+          "uid": 1581711,
+          "tags": {
+            "amenity": "animal_shelter",
+            "animal": "cat",
+            "name": "Charlie's Animal Rescue Centre (CARE)"
+          }
+        },
+        {
+          "type": "node",
+          "id": 6387634224,
+          "lat": 13.1333781,
+          "lon": 77.5294553,
+          "timestamp": "2019-04-06T13:40:39Z",
+          "version": 1,
+          "changeset": 68952246,
+          "user": "ThejeshGN",
+          "uid": 82685,
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "CUPA Geriatric Centre"
+          }
+        },
+        {
+          "type": "node",
+          "id": 6698658814,
+          "lat": 12.8989162,
+          "lon": 77.6566393,
+          "timestamp": "2019-08-10T10:00:41Z",
+          "version": 1,
+          "changeset": 73217258,
+          "user": "localedits",
+          "uid": 8363948,
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:housenumber": "Shop #1, Sy No 30, Opp Vibgyor High School",
+            "addr:postcode": "560102",
+            "addr:street": "Reliable Residency Layout, Somasundrapalya, Harlur Road, HSR Layout 2nd Extn",
+            "amenity": "veterinary",
+            "contact:email": "swatimvc@gmail.com",
+            "contact:phone": "7204522768",
+            "description": "We care for your loved ones",
+            "fee": "yes",
+            "name": "Your's pet",
+            "opening_hours": "Th-Tu 09:00-13:00",
+            "operator": "Dr. Swati Jain",
+            "payment:cash": "yes",
+            "source": "local knowledge"
+          }
+        },
+        {
+          "type": "node",
+          "id": 7146671685,
+          "lat": 12.9726701,
+          "lon": 77.5284772,
+          "timestamp": "2020-01-20T15:53:57Z",
+          "version": 1,
+          "changeset": 79805593,
+          "user": "Chetan_Gowda",
+          "uid": 2644101,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Sunil Pet Clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 8534917998,
+          "lat": 13.026494,
+          "lon": 77.5933758,
+          "timestamp": "2025-03-16T12:23:52Z",
+          "version": 3,
+          "changeset": 163686193,
+          "user": "OrangeFox",
+          "uid": 4316670,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "CUPA Small Animals Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9583428973,
+          "lat": 13.0145081,
+          "lon": 77.5742617,
+          "timestamp": "2022-03-16T17:33:13Z",
+          "version": 1,
+          "changeset": 118561457,
+          "user": "Vonter",
+          "uid": 3926189,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Cessna Lifeline Veterinary Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9655459411,
+          "lat": 12.9726123,
+          "lon": 77.6379008,
+          "timestamp": "2022-04-10T08:17:14Z",
+          "version": 1,
+          "changeset": 119526238,
+          "user": "aaru_swartz",
+          "uid": 3649863,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Indira pet clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 9841485158,
+          "lat": 12.9558503,
+          "lon": 77.7301227,
+          "timestamp": "2025-06-29T11:51:08Z",
+          "version": 2,
+          "changeset": 168261736,
+          "user": "TheLNL",
+          "uid": 21256080,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2025-06-29",
+            "name": "Bangalore Pet Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10047410821,
+          "lat": 12.9409683,
+          "lon": 77.6273958,
+          "timestamp": "2022-10-17T19:36:41Z",
+          "version": 2,
+          "changeset": 127690626,
+          "user": "anindyamozumdar",
+          "uid": 15361799,
+          "tags": {
+            "amenity": "animal_boarding",
+            "name": "Cowshed"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10073443014,
+          "lat": 12.9265299,
+          "lon": 77.6375122,
+          "timestamp": "2022-10-03T18:03:59Z",
+          "version": 1,
+          "changeset": 126951901,
+          "user": "polarhive",
+          "uid": 17233864,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "V-Care Pet Polyclinic",
+            "phone": "08025525834",
+            "website": "https://www.vcarepetpolyclinic.com/"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10073475701,
+          "lat": 12.9335751,
+          "lon": 77.6267634,
+          "timestamp": "2025-08-08T09:53:11Z",
+          "version": 2,
+          "changeset": 170146143,
+          "user": "TheLNL",
+          "uid": 21256080,
+          "tags": {
+            "addr:housenumber": "437",
+            "addr:street": "8th Main",
+            "amenity": "veterinary",
+            "check_date": "2025-08-08",
+            "name": "Pet Zone Pet Clinic",
+            "phone": "08041217299"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10109902602,
+          "lat": 12.9407883,
+          "lon": 77.6274129,
+          "timestamp": "2022-10-17T19:36:41Z",
+          "version": 1,
+          "changeset": 127690626,
+          "user": "anindyamozumdar",
+          "uid": 15361799,
+          "tags": {
+            "amenity": "animal_boarding",
+            "name": "Cowshed"
+          }
+        },
+        {
+          "type": "node",
+          "id": 10250253421,
+          "lat": 13.065306,
+          "lon": 77.5800479,
+          "timestamp": "2023-08-20T06:53:06Z",
+          "version": 2,
+          "changeset": 140119136,
+          "user": "Dilawar Singh",
+          "uid": 8067436,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Pet Connect",
+            "opening_hours": "PH,Mo-Su 08:00-20:00"
+          }
+        },
+        {
+          "type": "node",
+          "id": 11028341135,
+          "lat": 12.9846095,
+          "lon": 77.7490486,
+          "timestamp": "2025-07-25T08:00:51Z",
+          "version": 2,
+          "changeset": 169438231,
+          "user": "TheLNL",
+          "uid": 21256080,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2025-07-25",
+            "name": "Dr. Santa Animal Health Care"
+          }
+        },
+        {
+          "type": "node",
+          "id": 11296908431,
+          "lat": 12.9134477,
+          "lon": 77.605435,
+          "timestamp": "2023-10-29T04:36:11Z",
+          "version": 1,
+          "changeset": 143294426,
+          "user": "addyx",
+          "uid": 7465570,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "BTM Vet Clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 11826955228,
+          "lat": 12.9620431,
+          "lon": 77.7328007,
+          "timestamp": "2024-04-18T06:33:49Z",
+          "version": 1,
+          "changeset": 150157658,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "amenity": "veterinary",
+            "mobile": "+91 9205002164",
+            "name": "Vetic Pet Hospital",
+            "opening_hours": "24/7"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12135160553,
+          "lat": 12.995834,
+          "lon": 77.7576041,
+          "timestamp": "2024-08-25T06:20:58Z",
+          "version": 1,
+          "changeset": 155721772,
+          "user": "Vonter",
+          "uid": 3926189,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Dispensary"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12366563178,
+          "lat": 12.9685315,
+          "lon": 77.6514828,
+          "timestamp": "2024-11-23T04:58:52Z",
+          "version": 1,
+          "changeset": 159482847,
+          "user": "Vonter",
+          "uid": 3926189,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2024-11-23",
+            "name": "Precise Pet Clinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12509153047,
+          "lat": 13.0650701,
+          "lon": 77.5046875,
+          "timestamp": "2025-01-17T11:20:55Z",
+          "version": 1,
+          "changeset": 161451380,
+          "user": "nagz02",
+          "uid": 22306380,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Br Pet Animal Clinic And Shop"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12528580055,
+          "lat": 13.0486189,
+          "lon": 77.5076129,
+          "timestamp": "2025-01-24T04:27:37Z",
+          "version": 1,
+          "changeset": 161697064,
+          "user": "nagz02",
+          "uid": 22306380,
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:postcode": "560073",
+            "addr:street": "Hessarghatta Main Road,Bagalakunte",
+            "amenity": "veterinary",
+            "name": "Nandi Pet Clinic And Shop"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12651832966,
+          "lat": 12.9558806,
+          "lon": 77.7308147,
+          "timestamp": "2025-03-11T08:11:42Z",
+          "version": 1,
+          "changeset": 163473392,
+          "user": "TheLNL",
+          "uid": 21256080,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2025-03-11",
+            "name": "Sanchu Animal Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12696023087,
+          "lat": 12.925256,
+          "lon": 77.6698302,
+          "timestamp": "2025-03-24T08:21:48Z",
+          "version": 1,
+          "changeset": 164018920,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Bangalore Pet Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12946368099,
+          "lat": 12.9712265,
+          "lon": 77.7503977,
+          "timestamp": "2025-06-24T07:23:21Z",
+          "version": 2,
+          "changeset": 168033985,
+          "user": "TheLNL",
+          "uid": 21256080,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2025-06-24",
+            "name": "V Care Pet Polyclinic"
+          }
+        },
+        {
+          "type": "node",
+          "id": 12977371120,
+          "lat": 12.8025702,
+          "lon": 77.7086925,
+          "timestamp": "2025-07-04T12:36:08Z",
+          "version": 1,
+          "changeset": 168484120,
+          "user": "NaanAvanIllai",
+          "uid": 14062769,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2025-07-04"
+          }
+        },
+        {
+          "type": "node",
+          "id": 13124190209,
+          "lat": 13.142344,
+          "lon": 77.7339688,
+          "timestamp": "2025-09-19T12:58:26Z",
+          "version": 2,
+          "changeset": 172161806,
+          "user": "Uma Singh Bangalore",
+          "uid": 23262364,
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:district": "Bengaluru",
+            "addr:housenumber": "295, Devanahalli, beside New KPTCL, Budigere",
+            "addr:postcode": "562165",
+            "addr:street": "Budigere Road",
+            "alt_name": "Dog Boarding Bangalore",
+            "amenity": "animal_boarding",
+            "animal_boarding": "dog",
+            "description": "A dog boarding and pet care facility in Budigere, Bangalore, offering a safe, home-like environment with spacious play areas, dedicated bays, and attentive care.",
+            "name": "Our World of Dogs - Dog Boarding Bangalore",
+            "opening_hours": "24/7",
+            "operator": "Uma Singh",
+            "short_name": "OWD",
+            "website": "https://ourworldofdogs.in/"
+          }
+        },
+        {
+          "type": "node",
+          "id": 13358966040,
+          "lat": 12.9586304,
+          "lon": 77.7155748,
+          "timestamp": "2025-12-07T09:47:49Z",
+          "version": 1,
+          "changeset": 175615331,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "addr:floor": "G",
+            "amenity": "veterinary",
+            "check_date": "2025-12-07",
+            "level": "0",
+            "name": "Supertails+",
+            "opening_hours": "09:00-22:00",
+            "wheelchair": "no"
+          }
+        },
+        {
+          "type": "node",
+          "id": 13588888212,
+          "lat": 12.973863,
+          "lon": 77.5102438,
+          "timestamp": "2026-02-22T06:47:07Z",
+          "version": 1,
+          "changeset": 178886402,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "addr:floor": "G",
+            "amenity": "veterinary",
+            "check_date": "2026-02-22",
+            "level": "0",
+            "name": "Annmees Veterinary Hospital",
+            "wheelchair": "no"
+          }
+        },
+        {
+          "type": "node",
+          "id": 13904007862,
+          "lat": 12.9826459,
+          "lon": 77.5374853,
+          "timestamp": "2026-06-02T09:13:36Z",
+          "version": 1,
+          "changeset": 183536124,
+          "user": "Cryptik23",
+          "uid": 22139843,
+          "tags": {
+            "amenity": "veterinary",
+            "check_date": "2026-06-02",
+            "name": "The Blue Capital Pet Hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 13984923817,
+          "lat": 12.8011434,
+          "lon": 77.574791,
+          "timestamp": "2026-07-03T07:24:05Z",
+          "version": 1,
+          "changeset": 185023496,
+          "user": "bkjha",
+          "uid": 12983765,
+          "tags": {
+            "amenity": "animal_shelter",
+            "check_date": "2026-07-03"
+          }
+        },
+        {
+          "type": "node",
+          "id": 14232070425,
+          "lat": 12.9249008,
+          "lon": 77.5894381,
+          "timestamp": "2026-09-29T15:21:25Z",
+          "version": 1,
+          "changeset": 189734133,
+          "user": "contrapunctus",
+          "uid": 4685130,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Pets First Multispeciality Hospital",
+            "veterinary": "hospital"
+          }
+        },
+        {
+          "type": "node",
+          "id": 14250851101,
+          "lat": 12.9574863,
+          "lon": 77.7313339,
+          "timestamp": "2026-10-05T05:44:08Z",
+          "version": 1,
+          "changeset": 190013195,
+          "user": "uknown-gryphus",
+          "uid": 2425805,
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Dr. Paws"
+          }
+        },
+        {
+          "type": "node",
+          "id": 14318281526,
+          "lat": 12.9137745,
+          "lon": 77.6060837,
+          "timestamp": "2026-10-25T12:10:06Z",
+          "version": 1,
+          "changeset": 191008357,
+          "user": "niyabits",
+          "uid": 22748606,
+          "tags": {
+            "amenity": "veterinary",
+            "mobile": "8277431186",
+            "name": "BTM Vet Clinic"
+          }
+        },
+        {
+          "type": "way",
+          "id": 159845124,
+          "timestamp": "2026-05-03T17:44:31Z",
+          "version": 8,
+          "changeset": 182171767,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 12.983472,
+            "lon": 77.6997437
+          },
+          "nodes": [
+            1719423437,
+            1719423439,
+            1719423436,
+            1719423438,
+            1719423437
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "Goshala - Veterinary Center for Cattle",
+            "name:kn": "ಗೋಶಾಲ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 260994096,
+          "timestamp": "2015-09-06T10:57:46Z",
+          "version": 2,
+          "changeset": 33830255,
+          "user": "indigomc",
+          "uid": 136860,
+          "center": {
+            "lat": 13.0283387,
+            "lon": 77.5844332
+          },
+          "nodes": [
+            2665993760,
+            2665993744,
+            2665993757,
+            2665993771,
+            2665993760
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Hospital",
+            "name:kn": "ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 346729228,
+          "timestamp": "2025-07-30T13:01:39Z",
+          "version": 5,
+          "changeset": 169720035,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 13.0378807,
+            "lon": 77.6502896
+          },
+          "nodes": [
+            13037326794,
+            3532494295,
+            3532494255,
+            3532494260,
+            13037326794
+          ],
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:district": "Bengaluru",
+            "addr:postcode": "560043",
+            "addr:street": "Horamavu Agara Road",
+            "amenity": "veterinary",
+            "building": "yes",
+            "building:levels": "2",
+            "loc_name": "ಹೋಪ್ ಪಶುವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸಾಲಯ",
+            "mobile": "+91 8884884054",
+            "name": "Hope Veterinary Clinic",
+            "name:kn": "ಹೋಪ್ ಪಶುವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸಾಲಯ",
+            "operator": "Dr. Akshay Prakash 8884884054"
+          }
+        },
+        {
+          "type": "way",
+          "id": 346753888,
+          "timestamp": "2026-11-07T04:51:50Z",
+          "version": 5,
+          "changeset": 191587663,
+          "user": "Keezz",
+          "uid": 24484512,
+          "center": {
+            "lat": 13.0305187,
+            "lon": 77.5738571
+          },
+          "nodes": [
+            3532647153,
+            3532647165,
+            14348415605,
+            14348415604,
+            3532647164,
+            14348415603,
+            14348415602,
+            3532647151,
+            3532647153
+          ],
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:street": "1st Main Road",
+            "amenity": "veterinary",
+            "building": "yes",
+            "check_date": "2026-11-07",
+            "name": "RMV Multi Speciality Veterinary Clinic",
+            "opening_hours": "Mo-Su 00:00-24:00"
+          }
+        },
+        {
+          "type": "way",
+          "id": 393815411,
+          "timestamp": "2018-10-20T10:40:37Z",
+          "version": 4,
+          "changeset": 63700510,
+          "user": "indigomc",
+          "uid": 136860,
+          "center": {
+            "lat": 12.9423733,
+            "lon": 77.6239743
+          },
+          "nodes": [
+            443224617,
+            3969066514,
+            3969066520,
+            3969066517,
+            3969066519,
+            3969066516,
+            3969066513,
+            3969066511,
+            3969066510,
+            443224614,
+            3969066509,
+            443224617
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "Akhila Karnataka Prani Daya",
+            "name:kn": "ಅಖಿಲ ಕರ್ನಾಟಕ ಪ್ರಾಣಿ ದಯ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 688356352,
+          "timestamp": "2019-08-23T19:09:29Z",
+          "version": 2,
+          "changeset": 73681020,
+          "user": "indigomc",
+          "uid": 136860,
+          "center": {
+            "lat": 12.979026,
+            "lon": 77.6264656
+          },
+          "nodes": [
+            6454568593,
+            6454568591,
+            6454568590,
+            6454568592,
+            6454568593
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Hospital",
+            "name:kn": "ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 803346375,
+          "timestamp": "2021-03-21T17:12:06Z",
+          "version": 2,
+          "changeset": 101449481,
+          "user": "indigomc",
+          "uid": 136860,
+          "center": {
+            "lat": 12.9248093,
+            "lon": 77.6174924
+          },
+          "nodes": [
+            7514685876,
+            7514685877,
+            7514685878,
+            7514685879,
+            7514685876
+          ],
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:postcode": "560068",
+            "amenity": "veterinary",
+            "building": "yes",
+            "name": "Government Veterinary Hospital",
+            "name:kn": "ಸರ್ಕಾರಿ ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1083566603,
+          "timestamp": "2024-03-08T08:47:06Z",
+          "version": 3,
+          "changeset": 148372928,
+          "user": "indigomc",
+          "uid": 136860,
+          "center": {
+            "lat": 12.9915638,
+            "lon": 77.5992593
+          },
+          "nodes": [
+            9930000965,
+            11664358425,
+            9930000964,
+            9930000963,
+            9930000962,
+            9930000961,
+            9930000965
+          ],
+          "tags": {
+            "amenity": "veterinary",
+            "name": "Veterinary Superspeciality Hospital",
+            "name:kn": "ಪಶುವೈದ್ಯ ಆಸ್ಪತ್ರೆ"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1101219234,
+          "timestamp": "2026-08-11T16:10:12Z",
+          "version": 4,
+          "changeset": 187295149,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 12.9964522,
+            "lon": 77.6064153
+          },
+          "nodes": [
+            10077731349,
+            10077731358,
+            10077731352,
+            10077731351,
+            10796895668,
+            10077731350,
+            10077731349
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "animal_shelter": "mammal",
+            "name": "Bangalore Gaurakhan Shala"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1181417676,
+          "timestamp": "2024-01-09T17:19:59Z",
+          "version": 3,
+          "changeset": 146074678,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 13.1086459,
+            "lon": 77.5803597
+          },
+          "nodes": [
+            10971543158,
+            10971543157,
+            10971543156,
+            10971543155,
+            10971543158
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "animal_shelter": "mammal",
+            "landuse": "recreation_ground",
+            "name": "Cow Shed",
+            "natural": "scrub"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1315634339,
+          "timestamp": "2024-09-15T04:39:08Z",
+          "version": 1,
+          "changeset": 156633444,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 13.1346602,
+            "lon": 77.5581497
+          },
+          "nodes": [
+            12177765854,
+            12177765853,
+            12177765852,
+            12177765855,
+            12177765854
+          ],
+          "tags": {
+            "amenity": "animal_boarding",
+            "name": "Play Pet Boarding"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1427465333,
+          "timestamp": "2025-09-06T05:54:28Z",
+          "version": 1,
+          "changeset": 171526176,
+          "user": "Uma Singh Bangalore",
+          "uid": 23262364,
+          "center": {
+            "lat": 13.142605,
+            "lon": 77.7341194
+          },
+          "nodes": [
+            13122872906,
+            13122872907,
+            13122872908,
+            13122872909,
+            13122872910,
+            13122872911,
+            13122872912,
+            13122872906
+          ],
+          "tags": {
+            "addr:city": "Bengaluru",
+            "addr:district": "Bengaluru",
+            "addr:housenumber": "295, Devanahalli, beside New KPTCL, Budigere",
+            "addr:postcode": "562165",
+            "addr:street": "Budigere Road",
+            "alt_name": "OWD",
+            "amenity": "animal_boarding",
+            "animal_boarding": "dog",
+            "building": "commercial",
+            "contact:facebook": "https://www.facebook.com/ourworldofdogs.in/",
+            "description": "A pet boarding and care facility in Budigere, Bangalore, offering a safe, home-like environment for dogs with spacious play areas, dedicated bays, and attentive care.",
+            "email": "support@ourworldofdogs.in",
+            "image": "https://ourworldofdogs.in/OWD.jpg",
+            "loc_name": "Our World of Dogs",
+            "mobile": "+91-09611580528",
+            "name": "Our World of Dogs",
+            "official_name": "Our World of Dogs",
+            "opening_hours": "24/7",
+            "operator": "Uma Singh",
+            "payment:american_express": "yes",
+            "payment:cards": "yes",
+            "payment:cash": "yes",
+            "payment:contactless": "yes",
+            "payment:credit_cards": "yes",
+            "payment:debit_cards": "yes",
+            "payment:diners_club": "yes",
+            "payment:google_pay": "yes",
+            "payment:maestro": "yes",
+            "payment:mastercard": "yes",
+            "payment:mastercard_contactless": "yes",
+            "payment:paypal": "yes",
+            "payment:visa": "yes",
+            "payment:visa_debit": "yes",
+            "payment:visa_electron": "yes",
+            "phone": "+91-09632719883",
+            "short_name": "OWD",
+            "start_date": "2023-10-01",
+            "website": "https://ourworldofdogs.in/",
+            "wheelchair": "yes"
+          }
+        },
+        {
+          "type": "way",
+          "id": 1547832493,
+          "timestamp": "2026-08-09T05:02:28Z",
+          "version": 2,
+          "changeset": 187161280,
+          "user": "Vonter",
+          "uid": 3926189,
+          "center": {
+            "lat": 12.9356243,
+            "lon": 77.4969873
+          },
+          "nodes": [
+            14078047058,
+            14078047053,
+            14081428695,
+            14078047052,
+            14081428683,
+            14078047051,
+            14078047050,
+            14078047049,
+            14078047058
+          ],
+          "tags": {
+            "amenity": "animal_shelter",
+            "name": "Goshala"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "pawzz-monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "carousel-studio",
+    "course-landing",
+    "discovery-mvp"
+  ],
+  "scripts": {
+    "dev:discovery": "npm run dev -w discovery-mvp",
+    "dev:carousel": "npm run dev -w carousel-studio",
+    "dev:course": "npm run dev -w course-landing",
+    "build:discovery": "npm run build -w discovery-mvp",
+    "build:carousel": "npm run build -w carousel-studio",
+    "build:course": "npm run build -w course-landing",
+    "build:all": "npm run build -w discovery-mvp && npm run build -w course-landing && npm run build -w carousel-studio",
+    "test:discovery": "npm run test -w discovery-mvp",
+    "test:carousel": "npm run test -w carousel-studio",
+    "test:course": "npm run test -w course-landing"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

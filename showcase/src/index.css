@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@theme {
+  /* Chrome tokens - Doc 04 §4.1 */
+  --color-bg: #FBF8F1;
+  --color-surface: #FFFFFF;
+  --color-ink: #14152B;
+  --color-muted: #5A5C7A;
+  --color-line: #E6E1D3;
+
+  /* Animal-care (teal family) - Doc 00 */
+  --color-pfa-primary: #0F6B63;
+  --color-pfa-primary-dark: #0A4F49;
+  --color-pfa-accent: #F2A33A;
+  --color-pfa-surface: #FBF6EC;
+  --color-pfa-card: #FFFFFF;
+  --color-pfa-ink: #1D2B2A;
+  --color-pfa-muted: #5E6F6C;
+  --color-pfa-border: #E4DDCC;
+  --color-pfa-emergency: #D64545;
+  --color-pfa-success: #2E8B57;
+
+  /* AI Education (indigo family) - Doc 00 */
+  --color-edu-primary: #3B3FD9;
+  --color-edu-primary-dark: #2E31B0;
+  --color-edu-highlight: #C6F432;
+  --color-edu-surface: #F6F6FF;
+  --color-edu-ink: #14152B;
+  --color-edu-muted: #55567A;
+  --color-edu-border: #E1E1F2;
+  --color-edu-success: #1F7A45;
+  --color-edu-whatsapp: #0E7367;
+
+  /* Typography */
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
+
+  /* Layout primitives */
+  --radius-input: 12px;
+  --radius-card: 20px;
+  --radius-pill: 999px;
+}

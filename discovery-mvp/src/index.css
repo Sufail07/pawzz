@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pfa-primary: #0f6b63;
+  --color-pfa-primary-dark: #0a4f49;
+  --color-pfa-accent: #f2a33a;
+  --color-pfa-accent-dark: #d98a24;
+  --color-pfa-surface: #fbf6ec;
+  --color-pfa-card: #ffffff;
+  --color-pfa-ink: #1d2b2a;
+  --color-pfa-muted: #5e6f6c;
+  --color-pfa-border: #e4ddcc;
+  --color-pfa-emergency: #c23a3a;
+  --color-pfa-emergency-dark: #a52f2f;
+  --color-pfa-success: #2e8b57;
+  --color-pfa-surface-alt: #f4ecdd;
+
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Fraunces", ui-serif, Georgia, "Times New Roman", serif;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 2rem;
+  --text-4xl: 2.75rem;
+  --text-5xl: 3.5rem;
+
+  --radius-input: 12px;
+  --radius-card: 20px;
+  --radius-pill: 999px;
+
+  --shadow-card: 0 1px 2px rgb(29 43 42 / 0.04), 0 8px 24px rgb(29 43 42 / 0.06);
+  --shadow-lift: 0 2px 4px rgb(29 43 42 / 0.06), 0 16px 40px rgb(29 43 42 / 0.12);
+}
+
+@layer base {
+  :root {
+    --pfa-primary: #0f6b63;
+    --pfa-primary-dark: #0a4f49;
+    --pfa-accent: #f2a33a;
+    --pfa-surface: #fbf6ec;
+    --pfa-card: #ffffff;
+    --pfa-ink: #1d2b2a;
+    --pfa-muted: #5e6f6c;
+    --pfa-border: #e4ddcc;
+    --pfa-emergency: #c23a3a;
+    --pfa-success: #2e8b57;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--pfa-surface);
+    color: var(--pfa-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  * {
+    border-color: var(--pfa-border);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--pfa-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: #f2a33a;
+    color: #1d2b2a;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@utility tap-target {
+  min-width: 44px;
+  min-height: 44px;
+}
+
+@utility container-page {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 1200px;
+  padding-inline: 16px;
+}
+
+@media (min-width: 768px) {
+  .container-page {
+    padding-inline: 24px;
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
